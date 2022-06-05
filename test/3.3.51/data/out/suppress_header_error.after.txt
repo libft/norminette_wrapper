@@ -1,0 +1,4 @@
+data/in/suppress_header_error.c: Error!
+Error: SPACE_BEFORE_FUNC    (line:   1, col:   4):	space before function name
+Error: NO_ARGS_VOID         (line:   1, col:  10):	Empty function argument requires void
+Error: RETURN_PARENTHESIS   (line:   3, col:  12):	Return value must be in parenthesis
