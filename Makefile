@@ -8,7 +8,7 @@ endif
 
 NAME := norminette
 
-.PHONY: all clean fclean re
+.PHONY: all clean fclean re test
 all: $(NAME)
 test:
 	@$(MAKE) -C test
